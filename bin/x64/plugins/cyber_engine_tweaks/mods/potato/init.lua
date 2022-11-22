@@ -1,4 +1,4 @@
--- PerformanceBoostForPotatoPC, Cyberpunk 2077 mod that unlocks hidden graphic options
+-- PerformanceBoostForPotatoPC, Cyberpunk 2077 mod that unlocks hidden graphics options
 -- Copyright (C) 2022 BurgersMcFly
 
 -- This program is free software: you can redistribute it and/or modify
